@@ -251,7 +251,7 @@ a:hover { color: #F0A840; }
   height: auto;
   display: block;
 }
-.pathway:hover .pathway-img img { transform: scale(1.05); }
+
 .pathway h3 {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-size: 1.3rem;
