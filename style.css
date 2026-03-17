@@ -796,13 +796,7 @@ a:hover { color: #F0A840; }
 .page-img { line-height: 0; }
 .page-img img {
   width: 100%;
-  height: 350px;
-  object-fit: cover;
-  object-position: center;
-}
-.page-img-tall img {
-  height: 450px;
-  object-position: center top;
+  height: auto;
 }
 
 /* ─── Page Title Bar (below image) ─── */
