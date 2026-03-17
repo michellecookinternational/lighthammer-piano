@@ -872,6 +872,9 @@ a:hover { color: #F0A840; }
   .intro-text {
     order: -1;
   }
+  .intro-inner {
+    flex-direction: column;
+  }
 }
 
 .pathway-spacer {
