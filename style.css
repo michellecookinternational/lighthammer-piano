@@ -867,3 +867,24 @@ a:hover { color: #F0A840; }
   .page-img img { height: 200px; }
   .page-img-tall img { height: 250px; }
 }
+
+@media (max-width: 1024px) {
+  .intro-text {
+    order: -1;
+  }
+}
+
+.pathway-spacer {
+  border: none;
+  background: none;
+  pointer-events: none;
+}
+.pathway-spacer:hover {
+  border: none;
+  background: none;
+}
+@media (min-width: 901px) {
+  .pathway-spacer {
+    display: none;
+  }
+}
