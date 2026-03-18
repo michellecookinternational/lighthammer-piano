@@ -462,7 +462,7 @@ a:hover { color: #F0A840; }
   color: rgba(212,204,192,.45); line-height: 1.9;
 }
 .footer-contact { margin-top: .5rem; }
-.footer-contact a { color: rgba(212,204,192,.55); }
+.footer-contact a { color: #E09430; }
 .footer-contact a:hover { color: #F0A840; }
 .footer-social { margin-top: .75rem; }
 .footer-social a { color: rgba(212,204,192,.45); transition: color .3s; }
